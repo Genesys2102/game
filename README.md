@@ -1,1 +1,1 @@
-# gamepagina de descarga del juego GS
+# gamepagina de descarga del juego GD
